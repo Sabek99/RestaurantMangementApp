@@ -75,6 +75,7 @@ namespace Restaurant.web.Controllers
             if (ModelState.IsValid)
             {
                 _db.Update(restaurant);
+                TempData["Message"] = "You have saved the restaurant";
                 return RedirectToAction("Details", new { id = restaurant.ID });
             }
             return View();
