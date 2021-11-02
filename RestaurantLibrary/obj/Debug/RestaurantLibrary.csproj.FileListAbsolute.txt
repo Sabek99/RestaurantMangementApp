@@ -1,0 +1,12 @@
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\RestaurantLibrary.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\RestaurantLibrary.pdb
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Debug\RestaurantLibrary.csproj.AssemblyReference.cache
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Debug\RestaurantLibrary.csproj.CoreCompileInputs.cache
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Debug\RestaurantLibrary.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Debug\RestaurantLibrary.pdb
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\RestaurantLibrary.dll.config
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\EntityFramework.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\EntityFramework.SqlServer.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\EntityFramework.xml
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Debug\EntityFramework.SqlServer.xml
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Debug\RestaurantLibrary.csproj.CopyComplete
