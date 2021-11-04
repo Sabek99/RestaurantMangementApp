@@ -16,6 +16,8 @@ namespace RestaurantLibrary.Models
         public string Name { get; set; }
 
         [Display(Name = "Type of food")]
+
+        [Required]
         public Cuisine Cuisine { get; set; }
 
     }
