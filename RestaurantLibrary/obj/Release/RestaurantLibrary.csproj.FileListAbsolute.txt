@@ -1,0 +1,12 @@
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\RestaurantLibrary.dll.config
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\RestaurantLibrary.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\RestaurantLibrary.pdb
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\EntityFramework.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\EntityFramework.SqlServer.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\EntityFramework.xml
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\bin\Release\EntityFramework.SqlServer.xml
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Release\RestaurantLibrary.csproj.AssemblyReference.cache
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Release\RestaurantLibrary.csproj.CoreCompileInputs.cache
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Release\RestaurantLibrary.csproj.CopyComplete
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Release\RestaurantLibrary.dll
+G:\CODES\C#\Scott Allen\Trial\RestaurantMangementApp\RestaurantLibrary\obj\Release\RestaurantLibrary.pdb
